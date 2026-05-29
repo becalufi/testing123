@@ -20,4 +20,20 @@
     </statement>
   </exercise>
 
+  <exercise workspace="2in">
+    <statement>
+      <p>
+        This is the second exercise.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise workspace="2in">
+    <statement>
+      <p>
+        This is the third exercise.
+      </p>
+    </statement>
+  </exercise>
+
 </worksheet>
